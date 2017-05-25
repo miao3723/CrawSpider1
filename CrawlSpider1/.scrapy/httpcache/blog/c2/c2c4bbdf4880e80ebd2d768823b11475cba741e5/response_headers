@@ -1,0 +1,14 @@
+Via: 1.0 idate.163.com (squid/3.1.23)
+X-Cache: MISS from idate.163.com
+Set-Cookie: JSESSIONID=B49BE1DDB2E232A35A33D9B014624E5F; Path=/; HttpOnly
+Set-Cookie: idate_province=17; Expires=Fri, 25-May-2018 02:42:21 GMT; Path=/
+Set-Cookie: idate_city=0; Expires=Fri, 25-May-2018 02:42:21 GMT; Path=/
+Expires: 0
+Expires: Thu, 25 May 2017 02:42:20 GMT
+Vary: Accept-Encoding
+Server: nginx
+Pragma: no-cache
+Pragma: no-cache
+Cache-Control: max-age=0
+Date: Thu, 25 May 2017 02:42:20 GMT
+Content-Type: text/html;charset=UTF-8

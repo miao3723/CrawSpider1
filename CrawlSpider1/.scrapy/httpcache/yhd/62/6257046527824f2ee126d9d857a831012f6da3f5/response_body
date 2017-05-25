@@ -1,0 +1,14 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>很抱歉! 您现在访问的页面未找到!</title>
+</head>
+<body>
+<script type="text/javascript">
+var host = window.location.host;
+//var url=document.domain;
+window.location.href= "http://"+host+"/header/pageNotFound.do";
+
+</script>
+</body>
+</html>

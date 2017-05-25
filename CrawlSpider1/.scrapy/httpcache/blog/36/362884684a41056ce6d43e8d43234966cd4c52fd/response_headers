@@ -1,0 +1,10 @@
+Content-Security-Policy: script-src 'self' https://www.lofter.com *.netease.com *.127.net *.126.net *.163.com https://10.120.145.54 *.w3t.cn *.googletagmanager.com *.google-analytics.com *.googleadservices.com *.google.com res.wx.qq.com 3gimg.qq.com jsapi.qq.com 127.0.0.1:* 59.111.29.38:* 10.241.1.94:* 'unsafe-inline' 'unsafe-eval' blob:;style-src * 'unsafe-inline' data:;
+Content-Encoding: gzip
+Set-Cookie: NTESLOFTSI=075578008B03963945A01CFFC34AA550.classa-lofter10-8010; Domain=.www.lofter.com; Path=/
+Set-Cookie: firstentry=%2Flogin.do%3FX-From-ISP%3D3|http%3A%2F%2Fblog.163.com%2F; Domain=.lofter.com; Expires=Fri, 26-May-2017 02:39:18 GMT; Path=/
+Set-Cookie: usertrack=ezq0pVkmQ9bBIkI/A1QWAg==; expires=Fri, 25-May-18 02:39:18 GMT; domain=lofter.com; path=/
+Vary: Accept-Encoding
+Server: nginx
+Date: Thu, 25 May 2017 02:39:18 GMT
+P3P: policyref="/w3c/p3p.xml", CP="CUR ADM OUR NOR STA NID"
+Content-Type: text/html;charset=UTF-8

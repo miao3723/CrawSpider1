@@ -1,0 +1,8 @@
+X-Via: 1.1 jyw214:1 (Cdn Cache Server V2.0)
+Expires: Thu, 25 May 2017 02:45:06 GMT
+Server: nginx
+Location: http://yuedu.163.com/book?pek=1
+Cache-Control: max-age=240
+Date: Thu, 25 May 2017 02:41:06 GMT
+P3P: CP=CAO PSA OUR
+Content-Type: text/html

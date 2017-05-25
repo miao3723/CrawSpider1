@@ -1,0 +1,7 @@
+Via: tnginx.10178
+Server: nginx
+Location: http://www.lofter.com
+Cache-Control: no-cache
+Cache-Control: no-store
+Date: Thu, 25 May 2017 02:38:50 GMT
+Content-Type: text/html
